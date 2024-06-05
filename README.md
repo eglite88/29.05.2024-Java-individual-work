@@ -1,4 +1,4 @@
-# 29.05.2024-Java-individual-work
+# 29.05.2024-Java-individual-work (Without hard)
 
 
 /*
@@ -11,7 +11,6 @@ Easy: Work with String in ArrayList. All the actions should be available for use
 
 Medium: Work with String User should be able to repeat all the actions infinitely.
 
-Hard: Create a Book class and work with Book object to the ArrayList.
 */
 import java.util.ArrayList;
 import java.util.stream.Collectors;
